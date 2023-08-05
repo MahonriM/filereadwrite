@@ -13,7 +13,7 @@ def leer():
     f.close()
 print("1-Leer el texto")
 print("2-Escribir")
-op=int(input("¿Que opcion desead realizar con el archivo de texto?"))
+op=int(input("¿Que opcion deseas realizar con el archivo de texto?"))
 if op==1:
     leer()
 elif op==2:
